@@ -4,5 +4,5 @@
 - Database Programming
 - Enterprise Systems Design and Modelling
 - Instrumentation & Measurement
-- Professional Communication Skills
+- Professional Communication Skills 2
 - French Language
